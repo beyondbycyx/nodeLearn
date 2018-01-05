@@ -1,0 +1,4 @@
+{
+ "name":"hugo-module",
+ "main": "./index.js"
+}
